@@ -51,7 +51,7 @@ can be added to the config with ``idemixgen signerconfig``.
         -h, --help               Show context-sensitive help (also try --help-long and --help-man).
         -u, --org-unit=ORG-UNIT  The Organizational Unit of the default signer
         -a, --admin              Make the default signer admin
-        -e, --enrollment-id=ENROLLMENT-ID
+        -e, --enrollmentId=ENROLLMENT-ID
                                  The enrollment id of the default signer
         -r, --revocation-handle=REVOCATION-HANDLE
                                  The handle used to revoke this signer
