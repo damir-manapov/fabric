@@ -16,6 +16,7 @@ The ``idemixgen`` tool will create directories with the following structure:
     - /ca/
         IssuerSecretKey
         IssuerPublicKey
+        RevocationKey
     - /msp/
         IssuerPublicKey
     - /user/
